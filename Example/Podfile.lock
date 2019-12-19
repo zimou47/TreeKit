@@ -1,0 +1,16 @@
+PODS:
+  - TreeKit (0.1.0)
+
+DEPENDENCIES:
+  - TreeKit (from `../`)
+
+EXTERNAL SOURCES:
+  TreeKit:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  TreeKit: 9f8f4a69c8e3a07a35edc9f1794aac5f135c4b5e
+
+PODFILE CHECKSUM: 1041c9e300982c08700990820e763821dc52de9b
+
+COCOAPODS: 1.7.5

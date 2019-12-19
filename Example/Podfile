@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '8.0'
+
+target 'TreeKit_Example' do
+  pod 'TreeKit', :path => '../'
+
+  target 'TreeKit_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
